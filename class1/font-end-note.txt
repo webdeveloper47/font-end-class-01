@@ -1,0 +1,34 @@
+Html Necessary tag
+ 	1.heading tag
+	2.paragraph tag
+	3.link tag
+	4.span, italic(i), mark, bold(b), 
+				strong, underline(u) tags
+	5.image(img) tag
+	6.form
+	    { fieldset tag(#for border in form tag)
+	      legend tag(border er majhe name lekhar jonne)
+	      label
+	      input
+		text
+		email
+		number
+	    } tag
+	7.textarea tag
+	8.button tag
+	9.list{order list(ol), unorder list(ul)} tags
+	10.div tag
+	11.section tag
+	12.html entity, copy and Increase Space &nbsp; , etc tag
+	13.table tag
+	14.break(br) tag
+	15.horizontal line( hr) tag
+	
+
+CSS Property
+
+	1.link
+	2.text-CSS
+		font-size
+		color
+		text-transform
